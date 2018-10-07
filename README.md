@@ -28,3 +28,5 @@ python your_application_name.py
 
 NOTE:On the first project of me (Auto Login in Twitter) which we entered Twitter without using password,we use XPaths of elements but in Instagram,when we refresh our website,id number of login url changes so we need
 to use something different to use that link through Python Selenium. Either we can choose class name or name selectors to use that.
+
+Stay with Python!
